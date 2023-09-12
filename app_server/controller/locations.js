@@ -64,12 +64,12 @@ module.exports.homelist = function(req, res) {
     closed: true
     }],
     reviews: [{
-    author: 'Simon Holmes',
+    author: 'Abhishek',
     rating: 5,
     timestamp: '16 July 2013',
     reviewText: 'What a great place. I can\'t say enough good things about it.'
     }, {
-    author: 'Charlie Chaplin',
+    author: 'Mr Res',
     rating: 3,
     timestamp: '16 June 2013',
     reviewText: 'It was okay. Coffee wasn\'t great, but the wifi was fast.'
